@@ -1,4 +1,4 @@
-### ✋ ¡Hola a todos! Mi nombre es Ezequiel - en twitter: @quelo2286 👋
+### ✋ ¡Hola a todos! Mi nombre es Ezequiel - en [Twitter](https://twitter.com/quelo2286 "te espero es Twitter") 👋
 ---
 ![https://github.com/eze2286](https://noticias.unsam.edu.ar/wp-content/uploads/2019/11/imagen-big-data-800x494.jpg)
 
