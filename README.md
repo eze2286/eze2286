@@ -15,6 +15,13 @@
 |❗️ Proyectos_Web_Scrapping| (https://github.com/eze2286/Proyectos_Web_Scrapping)|
 |❗️ Libreria propia datos INDEC en proceso| 
 
+## Proyectos terminados:
+* [x] Proyectos_Data_Science (https://github.com/eze2286/Proyectos_Data_Science)
+* [x] Proyectos_Web_Scrapping| (https://github.com/eze2286/Proyectos_Web_Scrapping)|
+
+## Proyectos en proceso:
+* [ ] Libreria propia datos INDEC en proceso
+
 ## Accesos directos
 * ❗️ Proyectos_Data_Science (https://github.com/eze2286/Proyectos_Data_Science)
     * Proyecto 1: https://github.com/eze2286/Proyectos_Data_Science/blob/master/Rendimientos_Acciones_Spyder_con_read_csv_y_SMA20.py
