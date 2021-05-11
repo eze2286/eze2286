@@ -1,4 +1,5 @@
 ### ✋ ¡Hola a todos! Mi nombre es Ezequiel - en twitter: @quelo2286 👋
+![https://github.com/eze2286](https://noticias.unsam.edu.ar/wp-content/uploads/2019/11/imagen-big-data-800x494.jpg)
 
 
 ## Soy Contador y estoy estudiando Data Science. Me enfoco principalmente en Python<img align="left" alt="CursoC" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /><img align="right" alt="CursoC" width="22px" src="https://user-images.githubusercontent.com/69882938/117889969-c24d2a00-b28a-11eb-999c-1448a782b22f.png" />
