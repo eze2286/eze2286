@@ -11,7 +11,7 @@
 ## Ultimas actividades:
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
 
 ## ❗️ Actividad Reciente
 |Nombre|Acceso|
