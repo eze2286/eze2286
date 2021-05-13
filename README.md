@@ -10,13 +10,8 @@
 
 ## Ultimas actividades:
 
-<details>
-    <summary>❗️ Ver</summary>
-    
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
-
-</details>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## ❗️ Actividad Reciente
 |Nombre|Acceso|
