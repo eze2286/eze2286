@@ -8,6 +8,16 @@
 ## Me encanta hacer running!
 ## Hice algunos proyectos que espero que le sean de utilidad. Me encantaría que me den su opinion o feedback para mejorarlos.
 
+## Ultimas actividades:
+
+<details>
+    <summary>❗️ Ver</summary>
+    
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 ## ❗️ Actividad Reciente
 |Nombre|Acceso|
 |------|------|
