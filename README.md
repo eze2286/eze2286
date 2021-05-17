@@ -11,8 +11,8 @@
 ## Ultimas actividades:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/eze2286/eze2286/issues/1) in [eze2286/eze2286](https://github.com/eze2286/eze2286)
-2. ❗️ Opened issue [#113](https://github.com/madlabsinc/teachcode/issues/113) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. 🗣 Commented on [#1](https://github.com/eze2286/eze2286/issues/1) in [eze2286/eze2286](https://github.com/eze2286/eze2286)
+2. ❗️ Closed issue [#1](https://github.com/eze2286/eze2286/issues/1) in [eze2286/eze2286](https://github.com/eze2286/eze2286)
 <!--END_SECTION:activity-->
 
 
